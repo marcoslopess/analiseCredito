@@ -1,0 +1,18 @@
+.profile-container-button {
+    height: 45px;
+    width: 60px;
+    border-radius: 4px;
+    border: 1px solid #DCDCE6;
+    background: transparent;
+    margin-left: 16px;
+    transition: border-color 0.32s;
+}
+
+.profile-container-button:hover {
+    border-color: #38d39f;
+}
+
+.logo {
+	width: 100px;
+	height: 45px;
+}
